@@ -1,3 +1,4 @@
+//test1
 public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View v = inflater.inflate(R.layout.fragment_graph, container, false);
         DataPoint[] data = toDataPointArray(xAxisData, yAxisData);
